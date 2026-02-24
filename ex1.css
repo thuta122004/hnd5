@@ -1,0 +1,39 @@
+.header {
+    position: relative;
+    width: 90%;
+}
+
+.header, .footer {
+    background-color: blanchedalmond;
+    color: darkolivegreen;
+    padding: 2%;
+    clear: both;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+    padding: 5%;
+}
+
+.content {
+    width: 50%;
+    float: left;
+    padding: 5%;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    background-color: antiquewhite;
+    color: darkolivegreen;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+
+
